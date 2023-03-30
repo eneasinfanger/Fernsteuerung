@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fernsteuerung</string>
+    <string name="title_camera">Kamera</string>
+    <string name="arrowup">^</string>
+    <string name="buttonleft"><![CDATA[<]]></string>
+    <string name="buttonright"><![CDATA[>]]></string>
+</resources>
